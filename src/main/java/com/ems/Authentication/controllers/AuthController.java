@@ -46,6 +46,12 @@ public class AuthController {
     @Autowired
     JwtUtils jwtUtils;
 
+//    @GetMapping
+//    @ResponseBody
+//    public List<User> getUsers() {
+//        return userRepository.findAll();
+//    }
+
     @PostMapping("/login")
     public ResponseEntity<?> authenticateUser(@RequestBody LoginRequest loginRequest) {
 

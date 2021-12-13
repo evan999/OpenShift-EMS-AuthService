@@ -1,0 +1,17 @@
+C:\Authentication\src\main\java\com\ems\Authentication\repositories\UserRepository.java
+C:\Authentication\src\main\java\com\ems\Authentication\security\WebSecurityConfig.java
+C:\Authentication\src\main\java\com\ems\Authentication\security\UserDetailsServiceImpl.java
+C:\Authentication\src\main\java\com\ems\Authentication\requests\RegisterRequest.java
+C:\Authentication\src\main\java\com\ems\Authentication\requests\LoginRequest.java
+C:\Authentication\src\main\java\com\ems\Authentication\controllers\AuthController.java
+C:\Authentication\src\main\java\com\ems\Authentication\models\User.java
+C:\Authentication\src\main\java\com\ems\Authentication\repositories\RoleRepository.java
+C:\Authentication\src\main\java\com\ems\Authentication\security\jwt\AuthEntryPointJwt.java
+C:\Authentication\src\main\java\com\ems\Authentication\models\Role.java
+C:\Authentication\src\main\java\com\ems\Authentication\models\ERole.java
+C:\Authentication\src\main\java\com\ems\Authentication\AuthenticationApplication.java
+C:\Authentication\src\main\java\com\ems\Authentication\responses\MessageResponse.java
+C:\Authentication\src\main\java\com\ems\Authentication\security\UserDetailsImpl.java
+C:\Authentication\src\main\java\com\ems\Authentication\responses\JwtResponse.java
+C:\Authentication\src\main\java\com\ems\Authentication\security\jwt\AuthTokenFilter.java
+C:\Authentication\src\main\java\com\ems\Authentication\security\jwt\JwtUtils.java
